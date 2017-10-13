@@ -1,0 +1,23 @@
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    padding: 40px 0;
+    background: #e82238;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+}
+
+nav ul li {
+    margin: 0 20px;
+    font-weight: 300;
+    color: #fff;
+    font-size: 20px;
+}
