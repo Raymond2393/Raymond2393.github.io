@@ -37,3 +37,7 @@ main aside {
     width: 45%;
     margin-left: 40px;
 }
+
+aside h2 {
+    color: #e5273e;
+}
