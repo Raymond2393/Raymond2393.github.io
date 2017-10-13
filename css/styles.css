@@ -29,7 +29,27 @@ main {
 }
 
 main img {
-    width: 300px;
+    width: 100.projects {
+        background: #f7f7f7;
+        padding: 30px 0;
+    }
+
+    .projects h3 {
+        text-align: center;
+        padding: 20px;
+        color: #e5273e;
+    }
+
+    .projects .projects-container {
+        display: flex;
+        justify-content: center;
+    }
+
+    .projects-container .project {
+        flex-grow: 1;
+        border-right: 1px solid grey;
+        text-align: center;
+    }px;
     height: auto;
 }
 
