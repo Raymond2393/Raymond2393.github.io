@@ -21,3 +21,19 @@ nav ul li {
     color: #fff;
     font-size: 20px;
 }
+
+main {
+    padding: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+main img {
+    width: 300px;
+    height: auto;
+}
+
+main aside {
+    width: 45%;
+    margin-left: 40px;
+}
